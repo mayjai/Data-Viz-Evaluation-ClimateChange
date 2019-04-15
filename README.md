@@ -8,8 +8,8 @@ In the first part of this project, I explored data visualiztions arguing whether
 1. **Graph Simplicity** - Create the simplest graph that conveys the information you want to convey
 2. **Use the Right Plot** - Consider the type of encoding object and attribute used to create a plot
 3. **Plot Focus** - Focus on visualizing patterns or on visualizing details, depending on the purpose of the plot
-4. **Meaningful Axis Ranges** - Selecting a range for the vertical axis depends on a graph’s purpose and type.
-5. **Aggregate Larger Datasets in Meaningful Ways** - Large quantitative datasets can be simplified via summary plots.
+4. **Meaningful Axis Ranges** - Selecting a range for the vertical axis depends on a graph’s purpose and type
+5. **Aggregate Larger Datasets in Meaningful Ways** - Large quantitative datasets can be simplified via summary plots
 6. **Appropriate Color** - Select an appropriate color scheme based on the type of data
 
 <br/>
@@ -115,13 +115,13 @@ Appropriate Color |	The contrasting colors of the two lines express the relation
 
 ### Conclusion
 
-Of all 5 visualizations, Visualization 2 conveys the argument most intuitively and clearly. The color usage gives a stronger visual impression. It is beautiful and did a good job in making an argument. Visualization 1 and 3 are special and visually appealing, which is a good way to hook the audience. The transparency of the colors used in both the visualizations are more appealing to eye comparing to using strong colors, while not losing its purpose of supporting the argument. Visualization 4 and 5 are use basic yet powerful contrasting colors to convey the ideas. They are not as engaging as the other three, but they did a great job in using the simplest graph that conveys the information they want to convey. 
+Of all 5 visualizations, Visualization 2 conveys the argument most intuitively and clearly. The color usage gives a stronger visual impression. It is beautiful and did a good job in making an argument. Visualization 1 and 3 are special and visually appealing, which is a good way to hook the audience. The transparency of the colors used in both the visualizations are more appealing to eye comparing to using strong colors, while not losing its purpose of supporting the argument. Visualization 4 and 5 use basic yet powerful contrasting colors to convey the ideas. They are not as engaging as the other three, but they did a great job in using the simplest graph to conveys the information they want to convey. 
 
 <br/>
 <br/>
 
 ## Replicating Visualization: Warming Stripes
-In the second part of this project, I replicate a visualization of climate change using this [data](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html).
+In the second part of this project, I replicated a visualization of climate change using this [data](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html).
 <br/>
 ![Annual global temperatures Warming Stripes](images/Annual_global_temperatures_WarmingStripes.png)
 
