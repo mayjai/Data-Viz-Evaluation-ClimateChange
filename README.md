@@ -121,11 +121,9 @@ Of all 5 visualizations, Visualization 2 conveys the argument most intuitively a
 <br/>
 
 ## Replicating Visualization: Warming Stripes
+In the second part of this project, I replicate a visualization of climate change using this [data](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html).
+<br/>
 ![Annual global temperatures Warming Stripes](images/Annual_global_temperatures_WarmingStripes.png)
-
-This is a replication of the warming stripes using data of annual global temperatures from 1850 to 2019.
-
-[Data Source](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
 
 <br/>
 <br/>
