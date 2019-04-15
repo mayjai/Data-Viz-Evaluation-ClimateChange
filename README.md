@@ -126,3 +126,15 @@ Of all 5 visualizations, Visualization 2 conveys the argument most intuitively a
 This is a replication of the warming stripes using data of annual global temperatures from 1850 to 2019.
 
 [Data Source](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
+
+<br/>
+<br/>
+
+## References
+### Evaluation Framework
+* Kelleher, C., Wagener, T., Ten guidelines for effective data visualization in scientific publications, Environmental Modelling & Software ([2011](http://water.engr.psu.edu/wagener/PublicationsPDFs/EMS2011%20Kelleher%20and%20Wagener.pdf)), doi:10.1016/j.envsoft.2010.12.006
+
+### Visualizations
+1. Hegerl, G.C., F. W. Zwiers, P. Braconnot, N.P. Gillett, Y. Luo, J.A. Marengo Orsini, N. Nicholls, J.E. Penner and P.A. Stott, [2007](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter9-1.pdf): Understanding and Attributing Climate Change. In: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M. Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+2. Forster, P., V. Ramaswamy, P. Artaxo, T. Berntsen, R. Betts, D.W. Fahey, J. Haywood, J. Lean, D.C. Lowe, G. Myhre, J. Nganga, R. Prinn, G. Raga, M. Schulz and R. Van Dorland, [2007](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf): Changes in Atmospheric Constituents and in Radiative Forcing. In: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+3. Does CO2 correlate with temperature history? – A look at multiple timescales in the context of the Shakun et al. paper; Anthony Watts, [2012](https://wattsupwiththat.com/2012/04/11/does-co2-correlate-with-temperature-history-a-look-at-multiple-timescales-in-the-context-of-the-shakun-et-al-paper/)
